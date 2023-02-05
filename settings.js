@@ -15,18 +15,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.alivepic = `https://telegra.ph/file/4f099e30914b3d1a6617b.jpg `
+global.alivepic = `https://telegra.ph/file/acbf39d5730766a22adf5.jpg `
 global.owner = ['94770075694'] //ur owner number
-global.ownername = "ℓακιγα οƒƒιϲιαℓ" //ur owner name
+global.ownername = "ꪶ 𝐿𝜟𝜥𝐼𝑌𝜟 𝛩𝐹𝐹𝐼𝐶𝐼𝜟𝐿_ϟ➊ ꫂ" //ur owner name
 global.ytname = "YT: Lakiya_Modder" //ur yt chanel name
-global.socialm = "ᴋᴀʟɪᴅᴜ ʙᴏᴛ-ᴍᴅ🥰" //ur github or insta name
+global.socialm = "Qᴇᴇɴ හෂී,හ්|°ˢᵉˣʸ°ɢɪʀʟ" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kirindiwela" //ur location
 
 //bot bomdy 
 global.ownernomer = "94770075694" //ur number
 global.premium = ['94770075694'] //ur premium number
-global.botname = 'ᴋᴀʟɪᴅᴜ ʙᴏᴛ-ᴍᴅ 🥰' //ur bot name
-global.linkz = "https://chat.whatsapp.com/JUlHmqyOs0tFfAVKH9j5ST" //your theme url which will be displayed on whatsapp
+global.botname = 'Qᴇᴇɴ හෂී,හ්|°ˢᵉˣʸ°ɢɪʀʟ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/GM9P6W3Ft7hLlN1aW90QP1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@Lakiya_Modder" //ur website to be displayed
 global.botscript = 'https://github.com/Lakminaudaya' //script link
 global.themeemoji = "🐨" //ur theme emoji
